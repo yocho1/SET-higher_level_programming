@@ -1,17 +1,7 @@
-# SET Higher Level Programming
+# 0x12. JavaScript - Warm up
 
-This repository contains higher-level programming projects.
+## 9. Addition
 
-## Directory: 0x12-javascript-warm_up
+A Node.js script that adds two integers passed as command-line arguments.
 
-JavaScript warm-up exercises covering:
-- Variables (const, let)
-- Console output
-- Basic scripting with Node.js
-- Semistandard code style
-
-## Requirements
-
-- Ubuntu 20.04 LTS
-- Node.js 14.x
-- Semistandard 16.x
+### Usage
